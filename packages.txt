@@ -1,0 +1,11 @@
+Packages to Install So Far:
+
+For WM Functionality:
+feh
+Monego font
+
+
+
+Otherwise
+emacs
+chrome
